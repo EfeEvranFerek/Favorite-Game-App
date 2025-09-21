@@ -19,3 +19,12 @@ This is a simple **C++ console application** that interacts with the user by:
 g++ main.cpp -o favorite_game
 ./favorite_game
 
+
+## Example Output
+Enter your name please: Efe
+Hello Efe
+That is a beautiful name Efe
+What is your favorite game?
+Counter Strike
+Counter Strike is fun!
+
