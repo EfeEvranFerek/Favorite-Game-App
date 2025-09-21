@@ -12,4 +12,5 @@ cout << "What is your favorite game? " << endl;
 getline (cin, game) ;
 cout << game << " is fun! " << endl ;
 return 0;
+
 }
